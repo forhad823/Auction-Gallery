@@ -1,0 +1,40 @@
+module.exports = {
+  // ...
+  variants: {
+    extend: {
+      backgroundColor: ["disabled"],
+      cursor: ["disabled"],
+    },
+  },
+};
+
+_____________________________
+class="w-11/12 mx-auto"
+--------------------------------
+
+https://i.ibb.co.com/qY9kdQSQ/apple.png
+https://i.ibb.co.com/0yJHD82h/banksy-print.png
+https://i.ibb.co.com/67hzd6xz/camera.png
+https://i.ibb.co.com/XZTMxqTH/great-getsby.png
+https://i.ibb.co.com/n8w8J6j2/guiter.png
+https://i.ibb.co.com/HLYvQVQz/watch.png
+
+{isClicked? <butt
+                 <button
+                    className={`px-3 py-1 rounded  ${
+                      isClicked
+                        ? "text-red-600 cursor-not-allowed"
+                        : "cursor-pointer"
+                    }`}
+                    disabled={isClicked}
+                    onClick={() => handleBidClick(item.id)}
+                  >
+                    <FaRegHeart />
+
+                    {/* <FaHeart /> */}
+                  </button>
+
+auction table layout:
+ grid grid-cols-[65%_33%] gap-2.5 justify-between                 
+
+// i forgot to push all changes to git initially...

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Vintage Leica M3 Camera",
+    "description": "Iconic 35mm film camera known for its precision and build quality, a favorite among collectors.",
+    "bidPrice": 1100,
+    "timeLeft": "2 days left",
+    "bidsCount": 14,
+    "image": "https://i.ibb.co.com/67hzd6xz/camera.png"
+  },
+  {
+    "id": 2,
+    "title": "1965 Gibson SG Standard Electric Guitar",
+    "description": "Classic American-made guitar with a rich tone and historic value, well-preserved.",
+    "bidPrice": 3200,
+    "timeLeft": "3 days left",
+    "bidsCount": 9,
+    "image": "https://i.ibb.co.com/n8w8J6j2/guiter.png"
+  },
+  {
+    "id": 3,
+    "title": "Original Apple Macintosh 128K (1984)",
+    "description": "The very first Macintosh computer, a piece of computing history, in working condition.",
+    "bidPrice": 2500,
+    "timeLeft": "12 hours left",
+    "bidsCount": 11,
+    "image": "https://i.ibb.co.com/qY9kdQSQ/apple.png"
+  },
+  {
+    "id": 4,
+    "title": "Rolex Submariner 16610",
+    "description": "Legendary diver’s watch with stainless steel body and automatic movement.",
+    "bidPrice": 7500,
+    "timeLeft": "1 day left",
+    "bidsCount": 18,
+    "image": "https://i.ibb.co.com/HLYvQVQz/watch.png"
+  },
+  {
+    "id": 5,
+    "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+    "description": "Rare 1925 first edition copy in excellent condition, a literary treasure.",
+    "bidPrice": 12500,
+    "timeLeft": "8 hours left",
+    "bidsCount": 5,
+    "image": "https://i.ibb.co.com/XZTMxqTH/great-getsby.png"
+  },
+  {
+    "id": 6,
+    "title": "Banksy Original Screen Print",
+    "description": "Authentic limited-edition screen print by Banksy, numbered and signed.",
+    "bidPrice": 18000,
+    "timeLeft": "2 days left",
+    "bidsCount": 7,
+    "image": "https://i.ibb.co.com/0yJHD82h/banksy-print.png"
+  }
+]
