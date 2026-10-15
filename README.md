@@ -6,6 +6,10 @@
 
 This is a simple but elegant web application that showcases a gallery of items up for auction. Users can browse through a list of active auctions, add items to their favorites, and see the total bid amount for their selected items.
 
+<!--- Home-Page image --->
+<img src="./public/homepage-image-auction.png" alt="Hello world" style="width: 100%; height: auto;">
+<br/>
+
 ## Features
 
 - **Browse Active Auctions:** View a list of items currently available for bidding.
@@ -13,6 +17,10 @@ This is a simple but elegant web application that showcases a gallery of items u
 - **Real-time Bid Calculation:** The total bid amount for favorite items is calculated and displayed instantly.
 - **User-Friendly Interface:** A clean and intuitive interface built with React and Tailwind CSS.
 - **Notifications:** Receive toast notifications when adding or removing items from your favorites.
+
+## Live project Link:
+
+- [Click Here](https://auction-gallery-forhad.netlify.app/)
 
 ## Technologies Used
 
